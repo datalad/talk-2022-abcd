@@ -8,6 +8,9 @@ expanded for MILA, and eventually adjusted for ABCD call talk.
 
 URLs in the slides ATM are tuned for offline presentation.
 
+"Rendered" version could be visited at
+http://datasets.datalad.org/datalad/artwork/talks/2022-abcd/#/ .
+
 ## License
 
 All content is released under the Creative Commons license CC BY-SA 4.0:
